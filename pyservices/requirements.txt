@@ -1,0 +1,7 @@
+virtualenv
+nltk
+spaCy
+pytessearct
+pillow
+opencv-python
+pandas

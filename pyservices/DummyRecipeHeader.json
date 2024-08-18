@@ -1,0 +1,103 @@
+{
+    "id": 1,
+    "name": "Black Forest Cake",
+    "description": "This Black Forest Cake combines rich chocolate cake layers with fresh cherries, cherry liqueur, and a simple whipped cream frosting.",
+    "ingredients": [
+        {
+            "header": "Chocolate Cake",
+            "items": [
+                "2 cups all-purpose flour",
+                "2 cups granulated sugar",
+                "3/4 cup Dutch-processed cocoa powder, sifted",
+                "2 tsp baking soda",
+                "1 tsp baking powder",
+                "1 tsp salt",
+                "1/2 cup vegetable oil",
+                "1 cup buttermilk, room temperature",
+                "1 cup hot water or hot coffee",
+                "2 large eggs",
+                "2 tsp vanilla extract"
+            ]
+        },
+        {
+            "header": "Cherry Liqueur Syrup",
+            "items": [
+                "1/2 cup granulated sugar",
+                "1/2 cup water",
+                "1/4 cup cherry liqueur"
+            ]
+        },
+        {
+            "header": "Whipped Cream Frosting",
+            "items": [
+                "3 cups whipping cream, cold",
+                "1/4 cup powdered sugar, sifted"
+            ]
+        },
+        {
+            "header": "Chocolate Bark",
+            "items": [
+                "250 g good quality dark chocolate, chopped"
+            ]
+        },
+        {
+            "header": "Assembly",
+            "items": [
+                "2 1/2 cups cherries, pitted and cut in half",
+                "1 bar dark chocolate for shavings (optional)",
+                "cherries"
+            ]
+        }
+    ],
+    "instructions": [
+        {
+            "header": "Chocolate Cake",
+            "steps": [
+                "Preheat oven to 350F, grease two 8\" inch round baking pans and dust with cocoa powder. Line bottoms with parchment.",
+                "Place all dry ingredients into the bowl of a stand mixer fitted with a paddle attachment. Stir to combine.",
+                "In a medium bowl whisk all wet ingredients (pour hot water in slowly as not to cook the eggs)",
+                "Add wet ingredients to dry and mix on medium for 2-3 mins. Batter will be very thin.",
+                "Pour evenly into prepared pans. I used a kitchen scale to ensure the batter is evenly distributed.",
+                "Bake for 45 mins or until a cake tester comes out mostly clean.",
+                "Cool 10 minutes in the pans then turn out onto a wire rack to cool completely."
+            ]
+        },
+        {
+            "header": "Cherry Liqueur Syrup",
+            "steps": [
+                "Place sugar and water into a small pot. Stir and bring to a boil. Simmer for 1 min then remove from heat. Stir in cherry liqueur and allow to cool completely."
+            ]
+        },
+        {
+            "header": "Chocolate Bark",
+            "steps": [
+                "Melt chocolate over a double boiler or in 20 second bursts in the microwave.",
+                "Using a large offset spatula, spread melted chocolate in a thin layer on a large sheet of parchment.",
+                "Roll up from the short side of the parchment. Place on a baking sheet and refrigerate or freeze until firm.",
+                "Unroll to create chocolate bark."
+            ]
+        },
+        {
+            "header": "Whipped Cream Frosting",
+            "steps": [
+                "Whip cream and powdered sugar until stiff peaks. Ideally in a cold bowl with a cold whisk."
+            ]
+        },
+        {
+            "header": "Assembly",
+            "steps": [
+                "Cut each cake layer in half horizontally.",
+                "Place one layer of cake on a cake stand or serving plate. Brush generously with cherry syrup.",
+                "Top with approximately 1 cup whipped cream and spread evenly. Top with approximately 1 cup of cherries and gently press them into the whipped cream. Repeat with remaining layers and frost the outside of the cake.",
+                "Decorate with chocolate bark, chocolate shavings, rosettes, and cherries if desired."
+            ]
+        }
+    ],
+    "servings": 12,
+    "units": 0,
+    "notes": "",
+    "tags": [
+        "beverage"
+    ],
+    "cuisine":"German"
+}
